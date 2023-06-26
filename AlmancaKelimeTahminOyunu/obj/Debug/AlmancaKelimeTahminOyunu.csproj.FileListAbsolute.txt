@@ -1,0 +1,8 @@
+C:\Users\Victus\source\repos\AlmancaKelimeTahminOyunu\AlmancaKelimeTahminOyunu\bin\Debug\AlmancaKelimeTahminOyunu.exe.config
+C:\Users\Victus\source\repos\AlmancaKelimeTahminOyunu\AlmancaKelimeTahminOyunu\bin\Debug\AlmancaKelimeTahminOyunu.exe
+C:\Users\Victus\source\repos\AlmancaKelimeTahminOyunu\AlmancaKelimeTahminOyunu\bin\Debug\AlmancaKelimeTahminOyunu.pdb
+C:\Users\Victus\source\repos\AlmancaKelimeTahminOyunu\AlmancaKelimeTahminOyunu\obj\Debug\AlmancaKelimeTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\AlmancaKelimeTahminOyunu\AlmancaKelimeTahminOyunu\obj\Debug\AlmancaKelimeTahminOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victus\source\repos\AlmancaKelimeTahminOyunu\AlmancaKelimeTahminOyunu\obj\Debug\AlmancaKelimeTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\AlmancaKelimeTahminOyunu\AlmancaKelimeTahminOyunu\obj\Debug\AlmancaKelimeTahminOyunu.exe
+C:\Users\Victus\source\repos\AlmancaKelimeTahminOyunu\AlmancaKelimeTahminOyunu\obj\Debug\AlmancaKelimeTahminOyunu.pdb
